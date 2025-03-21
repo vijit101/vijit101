@@ -40,3 +40,5 @@ I am a **Backend Engineer & an enthusiast Technologist** passionate about buildi
 ---
 
 📌 Always striving for **excellence & execution.** Let's connect and build something amazing! 🚀
+
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=vijit101&show_icons=true&theme=radical)
