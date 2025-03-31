@@ -10,7 +10,8 @@ I am a **Backend Engineer & an enthusiast Technologist** passionate about buildi
 
 
 # 📊 GitHub Stats:
-
+![](https://github-readme-stats.vercel.app/api?username=vijit101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=vijit101&theme=tokyonight&hide_border=false)<br/>
 <!--![](https://github-readme-stats.vercel.app/api/top-langs/?username=vijit101&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)-->
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vijit101&theme=radical&no-frame=false&no-bg=false&margin-w=4)
